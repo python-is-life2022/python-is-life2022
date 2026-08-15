@@ -35,7 +35,7 @@ Here you can find my projects, exercises, and learning journey in **Python, Mach
 
 ---
 
-## 📂 Featured Project
+## 📂 Featured Projects
 
 ### 👕 Fashion-MNIST Image Classification
 
@@ -43,7 +43,7 @@ Image classification project using the **Fashion-MNIST** dataset and Deep Learni
 
 **Topics used:**
 - Data Preprocessing
-- Neural Networks
+- Artificial Neural Networks
 - Sequential Models
 - Convolutional Neural Networks (CNN)
 - Model Evaluation
@@ -51,6 +51,20 @@ Image classification project using the **Fashion-MNIST** dataset and Deep Learni
 
 ---
 
+### 🔢 Persian Handwritten Digit Recognition
+
+A Deep Learning project for recognizing **Persian handwritten digits** from images.
+
+**Topics used:**
+- Image Preprocessing
+- Grayscale Image Processing
+- Neural Networks
+- Convolutional Neural Networks (CNN)
+- Multi-class Classification
+- Training and Evaluating Deep Learning Models
+
+---
+
 ## 📫 Contact Me
 
-- GitHub: [@YOUR_USERNAME](https://github.com/python-is-life2022)
+- GitHub: [@python-is-life2022](https://github.com/python-is-life2022)
