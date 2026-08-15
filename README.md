@@ -1,9 +1,16 @@
+<div align="center">
+
 # 👋 Hi, I'm Amir Mostafa Kharazi
 
-### Python • Machine Learning • Deep Learning • Neural Networks
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Python+Developer;Machine+Learning+Enthusiast;Deep+Learning+%26+Neural+Networks;Computer+Vision+Projects" alt="Typing SVG" />
 
-Welcome to my GitHub profile.  
-Here you can find my projects, exercises, and learning journey in **Python, Machine Learning, Deep Learning, and Neural Networks**.
+<br/>
+
+<p>
+  Building intelligent models with Python, Machine Learning, and Deep Learning. 🚀
+</p>
+
+</div>
 
 ---
 
@@ -14,18 +21,20 @@ Here you can find my projects, exercises, and learning journey in **Python, Mach
 - Deep Learning
 - Artificial Neural Networks
 - Convolutional Neural Networks (CNN)
+- Computer Vision
 - Image Classification
 - Data Analysis & Visualization
-- Computer Vision
 
 ---
 
 ## 🛠️ Skills & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
@@ -39,32 +48,51 @@ Here you can find my projects, exercises, and learning journey in **Python, Mach
 
 ### 👕 Fashion-MNIST Image Classification
 
-Image classification project using the **Fashion-MNIST** dataset and Deep Learning models.
+A Deep Learning project for classifying fashion product images using the **Fashion-MNIST** dataset.
 
-**Topics used:**
+**Topics & Techniques:**
 - Data Preprocessing
 - Artificial Neural Networks
 - Sequential Models
 - Convolutional Neural Networks (CNN)
-- Model Evaluation
-- Accuracy & Loss Visualization
+- Model Training & Evaluation
+- Accuracy and Loss Visualization
 
 ---
 
 ### 🔢 Persian Handwritten Digit Recognition
 
-A Deep Learning project for recognizing **Persian handwritten digits** from images.
+A Deep Learning project for recognizing **Persian handwritten digits** from image data.
 
-**Topics used:**
+**Topics & Techniques:**
 - Image Preprocessing
 - Grayscale Image Processing
+- Multi-class Classification
 - Neural Networks
 - Convolutional Neural Networks (CNN)
-- Multi-class Classification
-- Training and Evaluating Deep Learning Models
+- Model Training & Performance Evaluation
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=python-is-life2022&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=python-is-life2022&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
 
 ---
 
 ## 📫 Contact Me
 
-- GitHub: [@python-is-life2022](https://github.com/python-is-life2022)
+<p align="center">
+  <a href="https://github.com/python-is-life2022">
+    <img src="https://img.shields.io/badge/GitHub-python-is-life2022-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  
+✨ *Learning, building, and improving every day.* ✨
+
+</div>
