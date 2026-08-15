@@ -86,11 +86,11 @@ A Deep Learning project for recognizing **Persian handwritten digits** from imag
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="https://github.com/python-is-life2022/">
-    <img src="https://img.shields.io/badge/GitHub-python-is-life2022-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/python-is-life2022">
+    <img src="https://img.shields.io/badge/GitHub-python--is--life2022-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/amir-kharazi-7b4a06259/">
-    <img src="https://img.shields.io/badge/LinkedIn-amir-kharazi-7b4a06259-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Amir_Kharazi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
