@@ -17,25 +17,30 @@
 ## 🧠 Areas of Interest
 
 - Python Programming
-- Machine Learning
-- Deep Learning
-- Artificial Neural Networks
-- Convolutional Neural Networks (CNN)
-- Computer Vision
-- Image Classification
-- Data Analysis & Visualization
+- Machine Learning & Deep Learning
+- Artificial & Convolutional Neural Networks
+- Computer Vision & Image Classification
+- Data Analysis
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Languages & Skills
 
+### Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### Tools & Frameworks
+<p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <br/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -47,30 +52,12 @@
 ## 📂 Featured Projects
 
 ### 👕 Fashion-MNIST Image Classification
-
 A Deep Learning project for classifying fashion product images using the **Fashion-MNIST** dataset.
-
-**Topics & Techniques:**
-- Data Preprocessing
-- Artificial Neural Networks
-- Sequential Models
-- Convolutional Neural Networks (CNN)
-- Model Training & Evaluation
-- Accuracy and Loss Visualization
-
----
+- *Topics:* Sequential Models, CNN, Model Training & Evaluation.
 
 ### 🔢 Persian Handwritten Digit Recognition
-
-A Deep Learning project for recognizing **Persian handwritten digits** from image data.
-
-**Topics & Techniques:**
-- Image Preprocessing
-- Grayscale Image Processing
-- Multi-class Classification
-- Neural Networks
-- Convolutional Neural Networks (CNN)
-- Model Training & Performance Evaluation
+A Deep Learning project for recognizing **Persian handwritten digits**.
+- *Topics:* Image Preprocessing, Multi-class Classification, Neural Networks.
 
 ---
 
@@ -78,13 +65,10 @@ A Deep Learning project for recognizing **Persian handwritten digits** from imag
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=python-is-life2022&theme=tokyonight" />
-</p>
-
-<p align="center">
+  <br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=python-is-life2022&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=python-is-life2022&theme=tokyonight" />
 </p>
-
 
 ---
 
