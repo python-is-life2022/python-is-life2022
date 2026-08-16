@@ -60,7 +60,7 @@ class AmirKharazi:
 ### Frameworks, Libraries & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,keras,django,git,github,vscode,jupyter" alt="TensorFlow, Keras, Django, Git, GitHub, VS Code and Jupyter" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,keras,mysql,django,git,github,vscode,jupyter" alt="TensorFlow, Keras, MySQL, Django, Git, GitHub, VS Code and Jupyter" />
 </p>
 
 <p align="center">
