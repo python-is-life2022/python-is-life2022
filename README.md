@@ -167,11 +167,9 @@ class AmirKharazi:
 
 <br/>
 
-<div align="center">
+<br/>
 
-<table>
-  <tr>
-    <td>
+<div align="center">
 
 <pre>
 ┌───────────────────────────────────────────┐
@@ -181,12 +179,9 @@ class AmirKharazi:
 └───────────────────────────────────────────┘
 </pre>
 
-    </td>
-  </tr>
-</table>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:052e16,100:020617&height=110&section=footer" alt="Hacker terminal footer" />
 
 </div>
+
 
 
