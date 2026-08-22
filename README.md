@@ -159,7 +159,7 @@ Computer Vision model that classifies images from the **100 categories** of the 
 
 <br/>
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-39FF14?style=flat-square&logo=github&logoColor=000000)]([https://github.com/python-is-life2022](https://github.com/python-is-life2022/Cifar100-images-classification-CNN))
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-39FF14?style=flat-square&logo=github&logoColor=000000)]([https://github.com/python-is-life2022/Cifar100-images-classification-CNN])
 
 <br/>
 
