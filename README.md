@@ -108,7 +108,7 @@ class AmirKharazi:
 
 <br/>
 
-### 👕 Fashion-MNIST Classification
+<h3>👕 Fashion-MNIST Classification</h3>
 
 Deep Learning model for classifying fashion-product images using the **Fashion-MNIST** dataset.
 
@@ -127,7 +127,7 @@ Deep Learning model for classifying fashion-product images using the **Fashion-M
 
 <br/>
 
-### 🔢 Persian Digit Recognition
+<h3>🔢 Persian Digit Recognition</h3>
 
 Neural-network project for Persian handwritten-digit recognition with preprocessing and multi-class classification.
 
@@ -149,7 +149,7 @@ Neural-network project for Persian handwritten-digit recognition with preprocess
 
 <br/>
 
-### 🖼️ CIFAR-100 Classification
+<h3>🖼️ CIFAR-100 Classification</h3>
 
 Computer Vision model that classifies images from the **100 categories** of the CIFAR-100 dataset using CNNs.
 
@@ -168,7 +168,7 @@ Computer Vision model that classifies images from the **100 categories** of the 
 
 <br/>
 
-### 🚀 Project In Progress
+<h3>🚀 Project In Progress</h3>
 
 Building more practical projects in Machine Learning, Deep Learning, and intelligent web applications.
 
