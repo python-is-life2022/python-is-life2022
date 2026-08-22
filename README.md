@@ -118,12 +118,12 @@ Deep Learning model for classifying fashion-product images using the **Fashion-M
 
 <br/>
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-39FF14?style=flat-square&logo=github&logoColor=000000)](https://github.com/python-is-life2022)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-39FF14?style=flat-square&logo=github&logoColor=000000)](https://github.com/python-is-life2022/Fashion-MNIST-Classification-with-Convolutional-Neural-Networks)
 
 <br/>
 
 </td>
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
 
 <br/>
 
@@ -137,7 +137,7 @@ Neural-network project for Persian handwritten-digit recognition with preprocess
 
 <br/>
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-39FF14?style=flat-square&logo=github&logoColor=000000)](https://github.com/python-is-life2022)
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-39FF14?style=flat-square&logo=github&logoColor=000000)](https://github.com/python-is-life2022/Persian-Digits-Hand-Writing-Image-Classification-Fully-Connected-Neural-Network)
 
 <br/>
 
@@ -159,12 +159,12 @@ Computer Vision model that classifies images from the **100 categories** of the 
 
 <br/>
 
-[![View Project](https://img.shields.io/badge/VIEW_PROJECT-39FF14?style=flat-square&logo=github&logoColor=000000)]([https://github.com/python-is-life2022/Cifar100-images-classification-CNN])
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-39FF14?style=flat-square&logo=github&logoColor=000000)](https://github.com/python-is-life2022/Cifar100-images-classification-CNN)
 
 <br/>
 
 </td>
-<td width="50%" valign="top">
+    <td width="50%" valign="top">
 
 <br/>
 
