@@ -94,31 +94,95 @@ class AmirKharazi:
 
 ## 📁 `>_` Featured Projects
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1800&color=39FF14&center=true&vCenter=true&width=620&lines=%3E+Loading+featured+machine-learning+projects...;%3E+Status%3A+Building+intelligent+solutions." alt="Featured projects status" />
+
+</div>
+
+<br/>
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>👕 Fashion-MNIST Image Classification</h3>
-      <p>A Deep Learning project for classifying fashion-product images using the <b>Fashion-MNIST</b> dataset.</p>
-      <code>Sequential Models</code> <code>CNN</code> <code>TensorFlow</code> <code>Computer Vision</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔢 Persian Handwritten Digit Recognition</h3>
-      <p>A neural-network project for recognizing Persian handwritten digits with image preprocessing and multi-class classification.</p>
-      <code>Neural Networks</code> <code>Image Processing</code> <code>Python</code> <code>Classification</code>
-    </td>
+
+<br/>
+
+### 👕 Fashion-MNIST Classification
+
+Deep Learning model for classifying fashion-product images using the **Fashion-MNIST** dataset.
+
+<br/>
+
+`Sequential` `CNN` `TensorFlow` `Computer Vision`
+
+<br/>
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-39FF14?style=flat-square&logo=github&logoColor=000000)](https://github.com/python-is-life2022)
+
+<br/>
+
+</td>
+<td width="50%" valign="top">
+
+<br/>
+
+### 🔢 Persian Digit Recognition
+
+Neural-network project for Persian handwritten-digit recognition with preprocessing and multi-class classification.
+
+<br/>
+
+`Neural Networks` `Image Processing` `Python` `Classification`
+
+<br/>
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-39FF14?style=flat-square&logo=github&logoColor=000000)](https://github.com/python-is-life2022)
+
+<br/>
+
+</td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <h3>🖼️ CIFAR-100 Image Classification</h3>
-      <p>A Computer Vision project for classifying images across <b>100 categories</b> using Convolutional Neural Networks and the CIFAR-100 dataset.</p>
-      <code>CNN</code> <code>TensorFlow</code> <code>Keras</code> <code>CIFAR-100</code> <code>Deep Learning</code>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚀 More Projects Coming Soon</h3>
-      <p>Currently building more practical Machine Learning, Deep Learning, and AI-powered projects.</p>
-      <code>Python</code> <code>ML</code> <code>DL</code> <code>AI</code>
-    </td>
+
+<br/>
+
+### 🖼️ CIFAR-100 Classification
+
+Computer Vision model that classifies images from the **100 categories** of the CIFAR-100 dataset using CNNs.
+
+<br/>
+
+`CNN` `TensorFlow` `Keras` `CIFAR-100` `Deep Learning`
+
+<br/>
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-39FF14?style=flat-square&logo=github&logoColor=000000)](https://github.com/python-is-life2022)
+
+<br/>
+
+</td>
+<td width="50%" valign="top">
+
+<br/>
+
+### 🚀 Project In Progress
+
+Building more practical projects in Machine Learning, Deep Learning, and intelligent web applications.
+
+<br/>
+
+`Python` `Machine Learning` `Deep Learning` `AI`
+
+<br/>
+
+[![COMING SOON](https://img.shields.io/badge/STATUS-COMING_SOON-0f172a?style=flat-square&logo=rocket&logoColor=39FF14)](#)
+
+<br/>
+
+</td>
   </tr>
 </table>
 
