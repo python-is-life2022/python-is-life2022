@@ -107,6 +107,19 @@ class AmirKharazi:
       <code>Neural Networks</code> <code>Image Processing</code> <code>Python</code> <code>Classification</code>
     </td>
   </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🖼️ CIFAR-100 Image Classification</h3>
+      <p>A Computer Vision project for classifying images across <b>100 categories</b> using Convolutional Neural Networks and the CIFAR-100 dataset.</p>
+      <code>CNN</code> <code>TensorFlow</code> <code>Keras</code> <code>CIFAR-100</code> <code>Deep Learning</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 More Projects Coming Soon</h3>
+      <p>Currently building more practical Machine Learning, Deep Learning, and AI-powered projects.</p>
+      <code>Python</code> <code>ML</code> <code>DL</code> <code>AI</code>
+    </td>
+  </tr>
 </table>
 
 ---
