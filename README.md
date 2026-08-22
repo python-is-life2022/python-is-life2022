@@ -163,15 +163,27 @@ class AmirKharazi:
 
 <br/>
 
+<br/>
+
 <div align="center">
 
-```text
+<table>
+  <tr>
+<td>
+
+<pre>
 ┌───────────────────────────────────────────────────────┐
 │  SYSTEM STATUS: ONLINE  ████████████████████ 100%      │
-│  "Code. Learn. Build. Repeat."                        │
+│                                                       │
+│            "Code. Learn. Build. Repeat."              │
 └───────────────────────────────────────────────────────┘
-```
+</pre>
+
+</td>
+  </tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:052e16,100:020617&height=110&section=footer" alt="Hacker terminal footer" />
 
 </div>
+
