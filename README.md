@@ -204,13 +204,25 @@ Building more practical projects in Machine Learning, Deep Learning, and intelli
 ## 📊 `>_` GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=python-is-life2022&theme=github_dark" alt="GitHub profile details" />
-  <br/><br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=python-is-life2022&theme=github_dark" alt="Top languages by repository" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=python-is-life2022&theme=github_dark" alt="Top languages by commits" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=python-is-life2022&theme=neon-dark&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub streak" />
+  
+  <!-- GitHub Profile Summary Cards (تک‌کارت‌ها برای پایداری بیشتر) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=python-is-life2022&theme=github_dark" alt="GitHub Stats" />
+  
+  <br/>
+
+  <!-- GitHub Streak Stats (استفاده از دامین معتبر اصلی) -->
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=python-is-life2022&theme=neon-dark&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak" />
+  </a>
+
+  <br/>
+  <br/>
+
+  <!-- نمودارهای زبان (به صورت جداگانه و پایدار) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=python-is-life2022&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+
 </div>
+
 
 ---
 
