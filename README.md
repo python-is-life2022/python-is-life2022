@@ -1,3 +1,5 @@
+<!-- ===================== HACKER / TERMINAL GITHUB PROFILE README ===================== -->
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,45:052e16,100:020617&height=170&section=header&text=AMIR%20MOSTAFA%20KHARAZI&fontSize=38&fontColor=39FF14&fontAlignY=43&desc=%5B%20PYTHON%20%7C%20MACHINE%20LEARNING%20%7C%20DEEP%20LEARNING%20%5D&descSize=15&descAlignY=67&animation=fadeIn" alt="Hacker terminal header" />
@@ -60,6 +62,7 @@ class AmirKharazi:
 ### ⚙️ Frameworks, Libraries & Tools
 
 <p align="center">
+  <!-- TensorFlow + Keras are intentionally separate, so the Keras icon always appears beside TensorFlow. -->
   <img src="https://skillicons.dev/icons?i=tensorflow" height="52" alt="TensorFlow" title="TensorFlow" />
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/keras/keras-original.svg" height="52" alt="Keras" title="Keras" />
@@ -102,46 +105,111 @@ class AmirKharazi:
 <table>
   <tr>
     <td width="50%" valign="top">
+
+<br/>
+
 <h3>👕 Fashion-MNIST Classification</h3>
-Deep Learning model for classifying fashion-product images using the <b>Fashion-MNIST</b> dataset.
+
+Deep Learning model for classifying fashion-product images using the **Fashion-MNIST** dataset.
+
 <br/>
+
 `Sequential` `CNN` `TensorFlow` `Computer Vision`
+
 <br/>
+
 [![View Project](https://img.shields.io/badge/VIEW_PROJECT-39FF14?style=flat-square&logo=github&logoColor=000000)](https://github.com/python-is-life2022/Fashion-MNIST-Classification-with-Convolutional-Neural-Networks)
+
+<br/>
+
 </td>
     <td width="50%" valign="top">
+
+<br/>
+
 <h3>🔢 Persian Digit Recognition</h3>
+
 Neural-network project for Persian handwritten-digit recognition with preprocessing and multi-class classification.
+
 <br/>
+
 `Neural Networks` `Image Processing` `Python` `Classification`
+
 <br/>
+
 [![View Project](https://img.shields.io/badge/VIEW_PROJECT-39FF14?style=flat-square&logo=github&logoColor=000000)](https://github.com/python-is-life2022/Persian-Digits-Hand-Writing-Image-Classification-Fully-Connected-Neural-Network)
+
+<br/>
+
+</td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+
+<br/>
+
+<h3>🖼️ CIFAR-100 Classification</h3>
+
+Computer Vision model that classifies images from the **100 categories** of the CIFAR-100 dataset using CNNs.
+
+<br/>
+
+`CNN` `TensorFlow` `Keras` `CIFAR-100` `Deep Learning`
+
+<br/>
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-39FF14?style=flat-square&logo=github&logoColor=000000)](https://github.com/python-is-life2022/Cifar100-images-classification-CNN)
+
+<br/>
+
+</td>
+    <td width="50%" valign="top">
+
+<br/>
+
+<h3>🚀 Project In Progress</h3>
+
+Building more practical projects in Machine Learning, Deep Learning, and intelligent web applications.
+
+<br/>
+
+`Python` `Machine Learning` `Deep Learning` `AI`
+
+<br/>
+
+[![COMING SOON](https://img.shields.io/badge/STATUS-COMING_SOON-0f172a?style=flat-square&logo=rocket&logoColor=39FF14)](#)
+
+<br/>
+
 </td>
   </tr>
 </table>
 
 ---
 
+## 🎯 `>_` Future Goals
+
+```text
+[✓] Build practical Machine Learning & Computer Vision projects
+[→] Master advanced CNN architectures and transfer learning
+[→] Explore NLP, Transformers, and Generative AI
+[→] Deploy ML models using Django and APIs
+[→] Contribute to open-source Python / AI projects
+[→] Build production-ready intelligent applications
+```
+
+---
+
 ## 📊 `>_` GitHub Analytics
 
 <div align="center">
-
-  <!-- Shields: Stable status badges -->
-  <img src="https://img.shields.io/github/repos/python-is-life2022?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000&color=000000" alt="Repositories" />
-  <img src="https://img.shields.io/github/followers/python-is-life2022?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000&color=000000" alt="Followers" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=python-is-life2022&theme=github_dark" alt="GitHub profile details" />
   <br/><br/>
-
-  <!-- NOTE: Cards are generated locally by GitHub Actions. DO NOT use external URLs here. -->
-  <img src="https://raw.githubusercontent.com/python-is-life2022/python-is-life2022/main/profile-summary-card-output/github_dark/0-profile-details.svg" alt="GitHub details" width="96%"/>
-  
-  <br/>
-  
-  <img src="https://raw.githubusercontent.com/python-is-life2022/python-is-life2022/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Languages" width="48%"/>
-  <img src="https://raw.githubusercontent.com/python-is-life2022/python-is-life2022/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Commits" width="48%"/>
-
-  <p><i>Building intelligent systems with Python & ML.</i></p>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=python-is-life2022&theme=github_dark" alt="Top languages by repository" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=python-is-life2022&theme=github_dark" alt="Top languages by commits" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=python-is-life2022&theme=neon-dark&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub streak" />
 </div>
 
 ---
@@ -156,3 +224,28 @@ Neural-network project for Persian handwritten-digit recognition with preprocess
     <img src="https://img.shields.io/badge/LinkedIn-Amir_Kharazi-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" alt="LinkedIn" />
   </a>
 </div>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<br/>
+
+<div align="center">
+
+<pre>
+┌───────────────────────────────────────────┐
+│ SYSTEM STATUS: ONLINE ████████████ 100%   │
+│                                           │
+│      "Code. Learn. Build. Repeat."        │
+└───────────────────────────────────────────┘
+</pre>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:052e16,100:020617&height=110&section=footer" alt="Hacker terminal footer" />
+
+</div>
+
+
+
