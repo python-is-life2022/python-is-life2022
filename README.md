@@ -204,24 +204,18 @@ Building more practical projects in Machine Learning, Deep Learning, and intelli
 ## 📊 `>_` GitHub Analytics
 
 <div align="center">
+
+  <!-- Static stats - پایدار و بدون نیاز به API -->
+  <img src="https://img.shields.io/github/repos/python-is-life2022?style=for-the-badge&logo=github&logoColor=39FF14&color=000000" alt="Repos" />
+  <img src="https://img.shields.io/github/followers/python-is-life2022?style=for-the-badge&logo=github&logoColor=39FF14&color=000000" alt="Followers" />
   
-  <!-- GitHub Profile Summary Cards (تک‌کارت‌ها برای پایداری بیشتر) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=python-is-life2022&theme=github_dark" alt="GitHub Stats" />
+  <br/><br/>
   
-  <br/>
-
-  <!-- GitHub Streak Stats (استفاده از دامین معتبر اصلی) -->
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=python-is-life2022&theme=neon-dark&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub Streak" />
-  </a>
-
-  <br/>
-  <br/>
-
-  <!-- نمودارهای زبان (به صورت جداگانه و پایدار) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=python-is-life2022&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <!-- بخش زبان‌ها با لینک مستقیم و پایدارتر -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=python-is-life2022&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
 
 </div>
+
 
 
 ---
