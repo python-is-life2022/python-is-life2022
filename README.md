@@ -209,8 +209,9 @@ Building more practical projects in Machine Learning, Deep Learning, and intelli
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=python-is-life2022&theme=github_dark" alt="Top languages by repository" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=python-is-life2022&theme=github_dark" alt="Top languages by commits" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=python-is-life2022&theme=neon-dark&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=python-is-life2022&theme=neon-dark&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="GitHub streak" />
 </div>
+
 
 ---
 
