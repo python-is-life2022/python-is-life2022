@@ -205,16 +205,19 @@ Building more practical projects in Machine Learning, Deep Learning, and intelli
 
 <div align="center">
 
-  <!-- Static stats - پایدار و بدون نیاز به API -->
-  <img src="https://img.shields.io/github/repos/python-is-life2022?style=for-the-badge&logo=github&logoColor=39FF14&color=000000" alt="Repos" />
-  <img src="https://img.shields.io/github/followers/python-is-life2022?style=for-the-badge&logo=github&logoColor=39FF14&color=000000" alt="Followers" />
-  
+  <!-- تعداد ریپازیتوری‌ها -->
+  <img src="https://img.shields.io/github/repos/python-is-life2022?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000&color=000000" alt="Repositories" />
+
+  <!-- تعداد دنبال‌کننده‌ها -->
+  <img src="https://img.shields.io/github/followers/python-is-life2022?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=000000&color=000000" alt="Followers" />
+
   <br/><br/>
-  
-  <!-- بخش زبان‌ها با لینک مستقیم و پایدارتر -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=python-is-life2022&theme=radical&layout=compact&hide_border=true" alt="Top Languages" />
+
+  <!-- وضعیت فعلی (تکست ساده برای جلوگیری از خطای تصویر) -->
+  <p><i>Building intelligent systems with Python & ML.</i></p>
 
 </div>
+
 
 
 
